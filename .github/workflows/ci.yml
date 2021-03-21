@@ -1,9 +1,9 @@
 name: CI/CD
 on:
  push:
- branches: [ main ]
+ branches: [ master ]
  pull_request:
- branches: [ main ]
+ branches: [ master ]
 ENSE701 Assessment 1A
 S1 2021 Pg 5 of 6 copyright Jim Buchan
 jobs:
