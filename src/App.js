@@ -15,7 +15,7 @@ import React, { Component } from 'react';
  return (
  <div>
 ENSE701 Assessment 1A
-S1 2021 Pg 3 of 6 copyright Jim Buchan
+S1 2021 Pg 4 of 6 copyright Jim Buchan
  <p>Count: {this.state.count}</p>
  <button className="increment" onClick={this.increment}>Increment
 count</button>
